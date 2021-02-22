@@ -16,8 +16,8 @@ API built with NodeJs + Mongo + Express for a challenge.
 	
 1.  `git clone`  or  **download**  the repository
 2.  Go to folder and run on terminal  `npm install`  to install all libs that are necessary for the application to run.
-3.  Run  `npm start`  to start the application
-4.  Go to localhost:3000
+3.  Run  `node index.js`  to start the application
+4.  Server running on localhost:5000
 
 
 
