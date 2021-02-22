@@ -14,9 +14,10 @@ API built with NodeJs + Mongo + Express for a challenge.
 ### How to start local server
 	Must have NodeJs installed on your device.
 	
- 1 - First you have to clone or download repository;
- 2 - Open a terminal and run `npm install` on root folder to install all dependencies;
- 3 - Your localserver is running on `localhost:5000`
+1.  `git clone`  or  **download**  the repository
+2.  Go to folder and run on terminal  `npm install`  to install all libs that are necessary for the application to run.
+3.  Run  `npm start`  to start the application
+4.  Go to localhost:3000
 
 
 
